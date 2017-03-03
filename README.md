@@ -1,0 +1,1 @@
+Testing configuring RStudio to Github
